@@ -1,0 +1,10 @@
+{
+  "project": "BaggageTwin",
+  "network": "GenLayer Studio Next",
+  "chain_id": 61997,
+  "contract_address": "0x919103E93f95690858313724129b58Ed38a70ffa",
+  "deployer": null,
+  "deployed_at": "2026-10-05",
+  "status": "DEPLOYED_AND_E2E_VERIFIED",
+  "explorer_url": "https://explorer-studio-dev.genlayer.com/address/0x919103E93f95690858313724129b58Ed38a70ffa"
+}
